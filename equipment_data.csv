@@ -1,0 +1,6 @@
+id,name,category,dailyRate,available
+E101,Slagborrmaskin,Verktyg,150.0,true
+E102,Skruvdragare 18V,Verktyg,95.0,true
+E103,Laddhybridbil,Fordon,450.0,false
+E104,Projektor 4K,Elektronik,200.0,true
+E105,Röjsåg Benzyn,Trädgård,180.0,false
