@@ -1,0 +1,1 @@
+*  **[How To Read/Write Text Files In Java NIO | Full Guide](https://youtu.be/yrMufQdr374?si=mCg6WwOgPHa2S6BI)** En guide som går igenom filläsning och skrivning på ett grundläggande sätt. Observera att `Paths.get()` inte är en superbra idé. Men den går igenom massor med bra grunder.
